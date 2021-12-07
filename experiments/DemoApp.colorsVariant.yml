@@ -1,0 +1,8 @@
+# This file was edited by Cloudbees Feature Management
+type: experiment
+flag: DemoApp.colorsVariant
+availableValues:
+  - green
+  - blue
+  - red
+value: blue

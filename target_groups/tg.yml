@@ -1,0 +1,6 @@
+type: target-group
+name: tg
+conditions:
+  - operator: ne
+    property: rox.platform
+    operand: '1234'

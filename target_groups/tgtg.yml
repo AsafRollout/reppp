@@ -1,0 +1,6 @@
+type: target-group
+name: tgtg
+conditions:
+  - operator: ne
+    property: newProp
+    operand: '1234'

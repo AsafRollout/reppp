@@ -1,6 +1,6 @@
 type: target-group
 name: tg
-blabla:
-  - operator: neq
+conditions:
+  - operator: ne
     property: rox.platform
     operand: '1234'

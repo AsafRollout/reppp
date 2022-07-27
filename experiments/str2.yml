@@ -1,0 +1,9 @@
+# This file was edited by CloudBees Feature Management
+type: experiment
+enabled: false
+flag: str2
+availableValues:
+  - s1
+  - s2
+  - s3
+  - s4

@@ -9,5 +9,5 @@ conditions:
   - dependency:
       flag: DemoApp.textColor
       value: black
-    value: 123
+    value: .nan
 value: 32
